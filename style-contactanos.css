@@ -1,19 +1,23 @@
 body {
     margin: 0%;
     padding: 0%;
-    background: white;
+    background: white
 
 }
 
 a {
     text-decoration: none;
 }
-//*
+
 .buscar {
     position:absolute;
     right: 15px;
-    padding: 10px;
+    padding:  10px;
     
+}
+
+.principal_2 {
+    background-color: rgb(250, 189, 204);
 }
 
 .buscar input {
@@ -51,11 +55,9 @@ a {
     width: 220px;
 }
 
-*//
-
-.Novedades  {
-    margin-left: 47px;
-    justify-content: center;
+.novedades  {
+        justify-content: center;
+        margin-left: 45%;
 }
 
 .ofertas  {
@@ -75,12 +77,7 @@ a {
 
 .Tacones  {
     justify-content: center;
-    margin-left: 2%;
-}
-
-.Zapatos-bajos  {
-    justify-content: center;
-    margin-left: 2%;
+    margin-left: 47%;
 }
 
 
@@ -539,6 +536,10 @@ nav ul li  {
     
   }
 
-  .principal_2 {
-    background-color: #ff00dd;
-}
+  
+
+ 
+
+
+
+
